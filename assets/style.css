@@ -87,3 +87,29 @@ main .img-1 {
   margin-bottom: 0.5em;
   color: #1696cd;
 }
+
+.box-4 {
+  margin-bottom: 1em;
+}
+
+.box-4 h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #1696cd;
+}
+
+.box-5 {
+  background-color: #e22d0e;
+  height: 13em;
+}
+.box-5 h2 {
+  padding-top: 1.5em;
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+}
+
+.box-5 p {
+  padding-top: 1.5em;
+  color: white;
+}
