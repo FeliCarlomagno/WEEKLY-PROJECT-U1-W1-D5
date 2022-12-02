@@ -123,3 +123,12 @@ main .img-1 {
   width: 100%;
   max-width: 17em;
 }
+
+.div-img h4 {
+  color: #1696cd;
+  padding: 0.5em 0;
+}
+
+.div-img p {
+  padding-bottom: 1.5em;
+}
