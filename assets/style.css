@@ -70,3 +70,9 @@ header img {
   margin: 0 1em;
   margin-bottom: 1em;
 }
+
+main .img-1 {
+  width: 100%;
+  max-width: 11em;
+  border-radius: 500px;
+}
