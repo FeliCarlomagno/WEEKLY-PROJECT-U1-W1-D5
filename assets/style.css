@@ -76,3 +76,14 @@ main .img-1 {
   max-width: 11em;
   border-radius: 500px;
 }
+
+.box-3 {
+  margin: 0 1em;
+  margin-bottom: 1em;
+}
+
+.box-3 h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #1696cd;
+}
