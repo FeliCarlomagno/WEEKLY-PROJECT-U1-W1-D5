@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+header {
+  background-color: black;
+  width: 100%;
+  height: 5em;
+}
+header img {
+  margin: 1.73em;
+  width: 100%;
+  max-width: 5em;
+}
