@@ -161,6 +161,18 @@ footer h3 {
   padding: 1em;
 }
 footer p {
+  color: white;
   line-height: 150%;
   font-size: 0.85em;
+}
+
+footer a {
+  color: white;
+}
+
+hr {
+  background-color: white;
+  width: 11.5em;
+  height: 0.1px;
+  border: 0;
 }
