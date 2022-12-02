@@ -49,3 +49,13 @@ header img {
   border-radius: 5px;
   color: white;
 }
+
+.box-1 h2 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: #1696cd;
+}
+
+.box-1 p {
+  margin: 0 1em;
+}
