@@ -1,6 +1,15 @@
 body {
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  color: #393d41;
+}
+
+body h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
 }
 
 header {
@@ -20,7 +29,7 @@ header img {
   background-size: cover;
   text-align: center;
   width: 100%;
-  height: 16em;
+  height: 17em;
 }
 
 .box-0 h1 {
@@ -28,12 +37,12 @@ header img {
   padding-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
-  color: #1696cd;
+  color: #25a2c3;
 }
 
 .box-0 p {
   font-size: 1em;
-  padding-top: 0.5em;
+  padding-top: 1.5em;
   padding-left: 1em;
   padding-right: 1em;
   line-height: 140%;
@@ -51,23 +60,23 @@ header img {
 }
 
 .box-1 h2 {
-  margin-top: 2em;
+  margin-top: 2.2em;
   margin-bottom: 0.5em;
-  color: #1696cd;
+  color: #25a2c3;
 }
 
 .box-1 p {
-  margin: 0 1em;
+  margin: 0 1.5em;
 }
 
 .box-2 h2 {
-  margin-top: 1.5em;
+  margin-top: 2em;
   margin-bottom: 0.5em;
-  color: #1696cd;
+  color: #25a2c3;
 }
 
 .box-2 p {
-  margin: 0 1em;
+  margin: 0 1.5em;
   margin-bottom: 1em;
 }
 
@@ -78,29 +87,30 @@ main .img-1 {
 }
 
 .box-3 {
-  margin: 0 1em;
+  margin: 0 1.5em;
   margin-bottom: 1em;
 }
 
 .box-3 h2 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
-  color: #1696cd;
+  color: #25a2c3;
 }
 
 .box-4 {
+  margin: 1.5em;
   margin-bottom: 1em;
 }
 
 .box-4 h2 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
-  color: #1696cd;
+  color: #25a2c3;
 }
 
 .box-5 {
   background-color: #e22d0e;
-  height: 13em;
+  height: 17em;
 }
 .box-5 h2 {
   padding-top: 1.5em;
@@ -110,7 +120,9 @@ main .img-1 {
 }
 
 .box-5 p {
+  font-size: 1rem;
   padding-top: 1.5em;
+  padding: 2em 1.5em;
   color: white;
 }
 
@@ -121,16 +133,20 @@ main .img-1 {
 }
 .div-img img {
   width: 100%;
-  max-width: 17em;
 }
 
 .div-img h4 {
   color: #1696cd;
-  padding: 0.5em 0;
+  padding: 1em 0;
 }
 
 .div-img p {
   padding-bottom: 1.5em;
+}
+
+.div-img .p-img {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
 
 footer {
